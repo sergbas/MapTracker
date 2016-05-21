@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+*.zip
+*.apk
+.apk
+.zip
+.rar
+/app/build
+.log
+google_maps_api.*
+google-services.*

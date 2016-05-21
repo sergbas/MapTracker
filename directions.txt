@@ -1,0 +1,12 @@
+https://maps.googleapis.com/maps/api/directions/json?origin=55.5,38.7&destination=56.1,38.2&sensor=false&mode=driving&alternatives=true&key=YOUR_API_KEY
+
+https://maps.googleapis.com/maps/api/directions/json?origin=55.5,38.7&destination=56.1,38.2&sensor=false&mode=driving&alternatives=true&key=AIzaSyAdarO2Cq09gopS1Hg8WBX5U-KtBYIAJDw
+https://maps.googleapis.com/maps/api/directions/json?origin=55.5,38.7&destination=56.1,38.2&sensor=false&mode=walking&alternatives=true&key=AIzaSyA_QY5Hyxg2hif-W-IDpupTUw0yrxjAeC4
+https://maps.googleapis.com/maps/api/directions/json?origin=55.5,38.7&destination=55.555,38.72&sensor=false&mode=walking&alternatives=true&key=AIzaSyA_QY5Hyxg2hif-W-IDpupTUw0yrxjAeC4
+
+{
+   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: https://console.developers.google.com/apis/library?project=_ Please ensure this API is activated in the Google Developers Console: https://console.developers.google.com/apis/api/directions_backend?project=_",
+   "routes" : [],
+   "status" : "REQUEST_DENIED"
+}
+
